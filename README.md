@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=8A2BE2&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=reversal&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=twinkling" />
 <h1 align="center">👋 Olá, eu sou Eduardo Duarte</h1>
 
 <p align="center">
