@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Eduardo Duarte</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=26&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Eduardo+Duarte;Desenvolvedor;Focado+em+Backend;Apaixonado+por+Tecnologia"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=26&center=true&vCenter=true&width=700&lines=Desenvolvedor;Focado+em+Backend;Apaixonado+por+Tecnologia"/>
 </p>
 
 <p align="center">
