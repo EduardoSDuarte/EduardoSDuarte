@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=4169E1&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=4169E1&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn&fontColor=E0E0E0" />
 </h1>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=26&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Eduardo+Duarte;Estudante+de+Ciência+da+Computação;Desenvolvedor;Apaixonado+por+tecnologia"/>
