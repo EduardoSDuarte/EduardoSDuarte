@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue"/>
-</p>
-
-<p align="center">
   💻 Estudante de Ciência da Computação <br>
   🚀 Focado em Backend e desenvolvimento de sistemas <br>
   🎯 Em busca de estágio em TI
@@ -80,3 +76,8 @@ Busco uma oportunidade de estágio na área de desenvolvimento, onde eu possa ap
 ## ⚡ Fun fact
 
 💡 Gosto de transformar ideias em código e resolver problemas de forma criativa!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue"/>
+</p>
+
