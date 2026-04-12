@@ -1,10 +1,7 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=scaleIn" />
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=26&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend;Estudante+de+Ciência+da+Computação;Apaixonado+por+Algoritmos+e+Estruturas+de+Dados"/>
-</p>
 
 <h1 align="center">👋 Olá, eu sou Eduardo Duarte</h1>
 
@@ -29,7 +26,7 @@
 
 <h2 align="center">🚀 Tecnologias</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,go,nodejs,html,css,git,github&theme=dark"/>
 </p>
 
