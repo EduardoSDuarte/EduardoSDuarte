@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">🚀 Tecnologias</h2>
+<h2 align="center"> Tecnologias</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,go,nodejs,html,css,git,github&theme=dark"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Tenho interesse em atuar em diferentes frentes da área — seja no desenvolvimento de software,
 na análise de dados, no suporte a sistemas ou em outras áreas correlatas — com disposição para aprender,
