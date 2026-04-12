@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8A2BE2&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=8A2BE2&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn" />
 </h1>
 
 <h1 align="center">👋 Olá, eu sou Eduardo Duarte</h1>
