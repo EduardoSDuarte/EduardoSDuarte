@@ -1,9 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000080&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn&fontColor=FFD700" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=4169E1&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn&fontColor=000000" />
 </h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=000080&size=26&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend;Estudante+de+Ciência+da+Computação;Apaixonado+por+Algoritmos+e+Estruturas+de+Dados"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=26&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend;Estudante+de+Ciência+da+Computação;Apaixonado+por+Algoritmos"/>
 </p>
 <h1 align="center">👋 Olá, eu sou Eduardo Duarte</h1>
 
