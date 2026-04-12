@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000080&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000080&height=200&section=header&text=Eduardo%20Duarte&fontSize=70&animation=fadeIn&fontColor=00FFFF" />
 </h1>
 
 <p align="center">
