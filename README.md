@@ -4,13 +4,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=26&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Eduardo+Duarte,Desenvolvedor;Estudante+de+Ciência+da+Computação;Apaixonado+por+tecnologia"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=26&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Eduardo+Duarte;Estudante+de+Ciência+da+Computação;Desenvolvedor;Apaixonado+por+tecnologia"/>
 </p>
 
-<p align="center">
-   Estudante de Ciência da Computação <br>
-   Focado em Backend e desenvolvimento de sistemas <br>
-</p>
 
 ---
 
