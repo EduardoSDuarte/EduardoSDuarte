@@ -19,8 +19,6 @@
 
 ---
 
-## 🧠 Tecnologias
-
 <h2 align="center">🚀 Tecnologias</h2>
 
 <p align="center">
