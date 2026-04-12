@@ -1,3 +1,7 @@
+<p align="left">
+<a href="https://www.linkedin.com/in/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
 <h1 align="center">👋 Olá, eu sou Eduardo Duarte</h1>
 
 <p align="center">
@@ -5,21 +9,28 @@
 </p>
 
 <p align="center">
-  💻 Estudante de Ciência da Computação <br>
-  🚀 Focado em Backend e desenvolvimento de sistemas <br>
+   Estudante de Ciência da Computação <br>
+   Focado em Backend e desenvolvimento de sistemas <br>
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoo3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoo3&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-- 🎓 Cursando Ciência da Computação  
-- 🧠 Interesse em algoritmos, estruturas de dados e backend  
-- 💡 Sempre buscando evoluir e aprender novas tecnologias  
+- Cursando Ciência da Computação  
+- Interesse em algoritmos, estruturas de dados e backend  
+- Sempre buscando evoluir e aprender novas tecnologias  
 
 ---
 
 <h2 align="center">🚀 Tecnologias</h2>
+
+## 🐍 Snake Game
+![github contribution grid snake animation](https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,go,nodejs,html,css,git,github&theme=dark"/>
@@ -27,10 +38,15 @@
 
 ---
 
-## 🔥 Projetos em destaque
+## Projetos em destaque
 
 - Decision Tree Guessing Game  
 → Jogo baseado em árvore de decisão usando BFS e DFS  
+
+### [Decision Tree Guessing Game](link-do-seu-repo)
+> Jogo baseado em árvore de decisão explorando conceitos de grafos.
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Algorithms](https://img.shields.io/badge/BFS%20%26%20DFS-orange?style=for-the-badge)
 - ...
 
 ---
