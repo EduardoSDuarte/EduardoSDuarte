@@ -41,7 +41,7 @@ colaborar em equipe e contribuir com soluções que gerem valor real para o neg�
 
 ---
 
-## ⚡ Fun fact
+## Fun fact
 
-💡 Gosto de transformar ideias em código e resolver problemas de forma criativa!
+ Gosto de transformar ideias em código e resolver problemas de forma criativa!
 
