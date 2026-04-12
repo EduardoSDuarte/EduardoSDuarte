@@ -1,18 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Eduardo Duarte</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Estágio-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Always-orange?style=for-the-badge"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=26&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Eduardo+Duarte;Desenvolvedor;Focado+em+Backend;Apaixonado+por+Tecnologia"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img src="https://streak-stats.demolab.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -31,23 +20,6 @@
 ---
 
 ## 🧠 Tecnologias
-
-### 💻 Linguagens
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,go" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### ⚙️ Backend & Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github" />
-</p>
-
----
 
 <h2 align="center">🚀 Tecnologias</h2>
 
