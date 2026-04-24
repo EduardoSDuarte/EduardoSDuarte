@@ -1,10 +1,4 @@
-<img width="1750" height="325" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/4691f1ab-28df-43ed-908b-83dedaeb8147" />
 
-<br>
-
-<img width="1750" height="325" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/d7502196-846f-4498-9488-fed8ccd1e839" />
-
-<br>
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/f0491ec2-fd3c-4829-8bf7-a23eeb214fcf" />
 
