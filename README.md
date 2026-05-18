@@ -25,12 +25,6 @@
 
 ---
 
-## Projetos em destaque
-
-- Decision Tree Guessing Game  
-→ Jogo baseado em árvore de decisão usando BFS e DFS  
-
----
 
 ##  Objetivo
 
